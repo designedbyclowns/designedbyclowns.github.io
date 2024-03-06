@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome!"
-date:   2024-03-05 11:44:51 -0800
----
-
-This blog is designed by clowns 🤡 who in turn are supervised by monkeys 🙉🙈🙊.
