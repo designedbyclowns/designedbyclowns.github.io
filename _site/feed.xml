@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-27T12:40:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Designed by Clowns</title><subtitle>Just clowning around.</subtitle><entry><title type="html">Table saw for sale</title><link href="http://localhost:4000/2024/05/25/saw-4-sale.html" rel="alternate" type="text/html" title="Table saw for sale" /><published>2024-05-25T19:00:00-07:00</published><updated>2024-05-25T19:00:00-07:00</updated><id>http://localhost:4000/2024/05/25/saw-4-sale</id><content type="html" xml:base="http://localhost:4000/2024/05/25/saw-4-sale.html"><![CDATA[<h2 id="999-or-best-offer">$999 or best offer.</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-08T10:25:27-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Designed by Clowns</title><subtitle>Just clowning around.</subtitle><entry><title type="html">Who are you?</title><link href="http://localhost:4000/2024/07/07/who-are-you.html" rel="alternate" type="text/html" title="Who are you?" /><published>2024-07-07T19:00:00-07:00</published><updated>2024-07-07T19:00:00-07:00</updated><id>http://localhost:4000/2024/07/07/who-are-you</id><content type="html" xml:base="http://localhost:4000/2024/07/07/who-are-you.html"><![CDATA[<p>As someone who has worked remotely a lot of my career, let me offer this #protip.</p>
+
+<h2 id="who-who-who-who">Who, who, who, who?</h2>
+
+<p>Whatever tools you use to communicate via the interweb, make sure your profile provides enough info about yourself so others have that context.</p>
+
+<p>If you are in an organization with more then a few dozen folks, this should include your real name, your <em>relative</em> job title<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, and the group you work in.</p>
+
+<p>Bonus points will be awarded for pronouns and name pronunciations.</p>
+
+<p>Unless everyone is physically located in the same timezone, include that too. Some tools make it simple to show everyone’s local time, which is how it shoudl be.</p>
+
+<p>And for the love of Pete, don’t use any acronyms. Ever.</p>
+
+<h2 id="i-really-want-to-know">I really want to know</h2>
+
+<p>And if you are the type to use GitHub, add your real name to your profile. Trying to remember everyone’s <del>CB radio handle</del> username is an annoying pain in the butt.</p>
+
+<p>Empathy is a common trait of the best developers.</p>
+
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Just enough to understand what you do. I don’t care what your formal level is; your official royal lineage; or whether you are senior, junior, or infantile. Adding that is just tacky. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[As someone who has worked remotely a lot of my career, let me offer this #protip.]]></summary></entry><entry><title type="html">Table saw for sale</title><link href="http://localhost:4000/2024/05/25/saw-4-sale.html" rel="alternate" type="text/html" title="Table saw for sale" /><published>2024-05-25T19:00:00-07:00</published><updated>2024-05-25T19:00:00-07:00</updated><id>http://localhost:4000/2024/05/25/saw-4-sale</id><content type="html" xml:base="http://localhost:4000/2024/05/25/saw-4-sale.html"><![CDATA[<h2 id="999-or-best-offer">$999 or best offer.</h2>
 
 <p>I am selling a <a href="https://powermatic.com/catalog/product/view/id/99832/category/2698/">Powermatic 10” Contractor’s table saw</a>
  (Model 64A) with with a 30” fence, left tilt arbor, 1-3/4 horsepower, dual voltage and lots of extras.</p>
@@ -99,7 +127,110 @@
 <figure>
 	<img title="Freud Super Dado Set" alt="Freud Super Dado Set." srcset="https://hishma.imgix.net/dbc/IMG_6290.jpg?w=740&amp;dpr=1 1x, https://hishma.imgix.net/dbc/IMG_6290.jpg?w=740&amp;dpr=2 2x, https://hishma.imgix.net/dbc/IMG_6290.jpg?w=740&amp;dpr=3 3x" src="https://hishma.imgix.net/dbc/IMG_6290.jpg?w=740" />
 	<figcaption>Freud Super Dado Set</figcaption>
-</figure>]]></content><author><name></name></author><summary type="html"><![CDATA[$999 or best offer.]]></summary></entry><entry><title type="html">Last Week Tonight</title><link href="http://localhost:4000/2024/03/08/last-week-tonight.html" rel="alternate" type="text/html" title="Last Week Tonight" /><published>2024-03-08T07:37:13-08:00</published><updated>2024-03-08T07:37:13-08:00</updated><id>http://localhost:4000/2024/03/08/last-week-tonight</id><content type="html" xml:base="http://localhost:4000/2024/03/08/last-week-tonight.html"><![CDATA[<p>If you are wondering about the origin of the name of this site, <a href="https://youtu.be/Q8oCilY4szc?si=0EpwZPr1J2FK0gHM">John Oliver explains it best</a>.</p>
+</figure>]]></content><author><name></name></author><summary type="html"><![CDATA[$999 or best offer.]]></summary></entry><entry><title type="html">I built a workbench</title><link href="http://localhost:4000/2024/05/24/workbench.html" rel="alternate" type="text/html" title="I built a workbench" /><published>2024-05-24T19:00:00-07:00</published><updated>2024-05-24T19:00:00-07:00</updated><id>http://localhost:4000/2024/05/24/workbench</id><content type="html" xml:base="http://localhost:4000/2024/05/24/workbench.html"><![CDATA[<p><a href="https://lostartpress.com/collections/workbenches/products/the-anarchists-workbench">The Anarchist’s Workbench</a></p>
+
+<figure>
+	<img title="The completed workbench" alt="A picture of the completed workbench." srcset="https://hishma.imgix.net/dbc/IMG_6339.jpg?w=740&amp;dpr=1 1x, https://hishma.imgix.net/dbc/IMG_6339.jpg?w=740&amp;dpr=2 2x, https://hishma.imgix.net/dbc/IMG_6339.jpg?w=740&amp;dpr=3 3x" src="https://hishma.imgix.net/dbc/IMG_6339.jpg?w=740" />
+	<figcaption>The completed workbench</figcaption>
+</figure>
+
+<p>It took me about three months, but yesterday I slid it into place in the corner of my garage where it will probably stay until the house falls into the sea.</p>
+
+<h2 id="why">Why</h2>
+
+<p>I’ve always been drawn to the idea of working with hand tools. I went through a phase in the early 90’s of regularly watching <a href="https://www.pbs.org/show/woodwrights-shop/">The Woodright’s Shop</a>, but that was in the heyday of my bohemian phase and I didn’t have enough nickels to rub together – wooden or otherwise – to afford the tools. Let alone a space to use them, or for that matter, wood.</p>
+
+<p>The mystical world of chisels and hand planes would remain out of reach for a long while. Sharpening a forbidden black art.</p>
+
+<p>Fast forward a handful of decades, and after moving to the area last year, I discovered the nearby <a href="https://www.ptwoodschool.org/our-story">Port Townsend School of Woodworking</a>. So I took a series  introductory weekend classes.</p>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PxPHvyMcnKk?si=NA1CCgJAbdgWhaE-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<figcaption>A promo video about the school by the amazing <a href="http://www.andreaanimates.com/about-1">Andrea Love</a>.</figcaption>
+</figure>
+
+<p>Now I’ve established a beach head in a corner of the garage (negotiations are ongoing), read and watched way more on the subject than anyone should, and joined the other regular interlopers at <a href="https://www.youtube.com/watch?v=3MtSYeiJ0Vc&amp;t=60s">Edendsaw woods</a> like some kind of petting zoo.</p>
+
+<p>It turns our <a href="https://www.youtube.com/watch?v=Au1TbIyLcPU">Roy Underhill</a> was just the gateway drug. You’ve been warned.</p>
+
+<p>Oh and I have a <a href="https://www.antique-used-tools.com/bob_who.htm">guy</a>. A dealer that swings by the house every few weeks in an old van - though significantly younger then he is – loaded with vintage tools. I’m such a loyal customer that he comes here first, before he visits the <a href="https://nwswb.edu">wooden boatbuilding school</a>, boat yards and other woodworkers in the area. And those are the <em>pros</em>.</p>
+
+<p>I should probably start going to meetings.</p>
+
+<p>So, I needed a workbench. And of course not just any bench, but a <em>proper</em> woodworking bench.</p>
+
+<p>Tradition demands you build it yourself.</p>
+
+<h2 id="what">What</h2>
+
+<p>The next question of course is which bench. This leads down more than a few rabbit holes.</p>
+
+<p>For me the choice quickly boiled down to these three forms, Moravian, Nickelson, or Roubo.</p>
+
+<h3 id="moravian">Moravian</h3>
+
+<p>The <a href="https://woodandshop.com/moravian-workbench-tour/">Moravian Workbench </a> is a beautiful bench. And the utility of how easily it breaks down and goes back together, all without relying on mechanical fasteners is amazing. Its just a wonderful design to my eye.</p>
+
+<p>I watched the entire <a href="https://store.woodandshop.com/products/digital-download-building-the-portable-moravian-workbench-with-will-myers">seven hour series</a> on building this bench, a few times. It was worth every minute. <a href="https://www.youtube.com/watch?v=9vKPpp5_bbE">Will Myers</a> walks you through the build process in clear, approachable manner. Or maybe that his soft spoken southern drawl.</p>
+
+<p>Its hard to resist.</p>
+
+<p>In the end I decided this might be a tad too much for me to take on the first time out. I had visions of redoing the legs one too many times as I screwed up the various joints. Also, for the first time in my life I have room for a bench to hang around a while, so the portability is not much of an advantage. But I’ll call you next time I’m back in I-need-a-worbench town, so don’t forget me.</p>
+
+<h3 id="nicholson">Nicholson</h3>
+
+<p>The Nicholson workbench, A.K.A. an English Joiner’s bench.  I <em>think</em> its probably the easiest to build of these three? But I really don’t know.</p>
+
+<p>Instinctively I’d rather have a thick, solid top. And the apron seems problematic in today’s world of affordable clamps.</p>
+
+<p>Like it, don’t love it.</p>
+
+<h3 id="roubo">Roubo</h3>
+
+<p>Eventually all this spelunking leads to <a href="https://christophermschwarz.com/about">Christopher Schwarz</a>, the chief denizen of the warren, and <a href="https://lostartpress.com/collections/workbenches/products/the-anarchists-workbench">The Anarchist’s Workbench</a>.</p>
+
+<p>The book is full of nerdy historical context, and deliberate rebellion, as our protagonist eventually arrives at a very prgamatic interpretation of this 18th century French classic. Its a fun read. The <a href="https://blog.lostartpress.com/wp-content/uploads/2020/07/AWB_Consumer_June-2020_v5.1-1.pdf">PDF</a> is free, so have a go yourself.</p>
+
+<p>It includes just the right amount of instruction for this simplified version. The whole thing is intended to be built from readily available framing lumber, making it relatively affordable, but is still assembled without the use of mechanical fasteners, thereby preserving ones own hubris.</p>
+
+<p>Its a very buildable bench. And with a 5” thick top and 5” square legs, its built like a tank.</p>
+
+<p>So yes, this is the one for me. Though I may occasionally steal a glance in Moravian’s direction.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9vKPpp5_bbE?si=JzXi1XSD7nHdVAZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBS5-AV81lg?si=XMVWkyTiV2zbF_Dh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<figcaption><a href="https://blog.lostartpress.com/2017/03/18/meet-the-author-jim-tolpin/">Jim Tolpin</a> on sizing workbenches.</figcaption>
+</figure>
+
+<h2 id="how">How</h2>
+
+<p>It starts with 2” x 12” framing lumber. In my corner of the world that means Douglas Fir. About $500 worth. Luckily just across town, which mean past the one 4 way stop and out to the highway there’s a <a href="https://www.carlsbuildingsupply.com">good lumber yard</a> that has plenty of quality kiln dried select #1. No schlepping though the usual big box store crap for this cowboy. And for that price, you get free delivery.</p>
+
+<figure>
+	<img title="The future workbench" alt="A picture of a stack of 2 x 12." srcset="https://hishma.imgix.net/dbc/IMG_5833.jpg?w=740&amp;dpr=1 1x, https://hishma.imgix.net/dbc/IMG_5833.jpg?w=740&amp;dpr=2 2x, https://hishma.imgix.net/dbc/IMG_5833.jpg?w=740&amp;dpr=3 3x" src="https://hishma.imgix.net/dbc/IMG_5833.jpg?w=740" />
+	<figcaption>The future workbench</figcaption>
+</figure>
+
+<figure>
+	<img title="Processed lumber" alt="A picture of a stack of 2 x 12." srcset="https://hishma.imgix.net/dbc/IMG_5913.jpg?w=740&amp;dpr=1 1x, https://hishma.imgix.net/dbc/IMG_5913.jpg?w=740&amp;dpr=2 2x, https://hishma.imgix.net/dbc/IMG_5913.jpg?w=740&amp;dpr=3 3x" src="https://hishma.imgix.net/dbc/IMG_5913.jpg?w=740" />
+	<figcaption>Processed lumber</figcaption>
+</figure>
+
+<p><a href="https://lostartpress.com">Lost Art Press</a></p>
+
+<p><a href="https://christophermschwarz.com/about">Christopher Schwarz</a></p>
+
+<p><a href="https://www.carlsbuildingsupply.com">Carl’s Building Supply</a></p>
+
+<p><a href="http://www.edensaw.com">Edendsaw woods</a></p>
+
+<p><a href="https://www.antique-used-tools.com/bob_who.htm">Bob Kaune</a></p>
+
+<p><a href="https://woodandshop.com/moravian-workbench-tour/">Moravian Workbench </a></p>
+
+<p>https://store.woodandshop.com/products/moravian-workbench-woodworking-t-shirt-multiple-colors?variant=44458488168762</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The Anarchist’s Workbench]]></summary></entry><entry><title type="html">Last Week Tonight</title><link href="http://localhost:4000/2024/03/08/last-week-tonight.html" rel="alternate" type="text/html" title="Last Week Tonight" /><published>2024-03-08T07:37:13-08:00</published><updated>2024-03-08T07:37:13-08:00</updated><id>http://localhost:4000/2024/03/08/last-week-tonight</id><content type="html" xml:base="http://localhost:4000/2024/03/08/last-week-tonight.html"><![CDATA[<p>If you are wondering about the origin of the name of this site, <a href="https://youtu.be/Q8oCilY4szc?si=0EpwZPr1J2FK0gHM">John Oliver explains it best</a>.</p>
 
 <p>The reference to <em>“designed by clowns”</em> is at 23:00, but you should really watch the whole thing because its friday, and you deserve a good laugh.</p>
 
